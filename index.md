@@ -8,4 +8,4 @@
 
 [test](https://skwbc.github.io/)
 
-![avatar](avatar.png)
+<img src="avatar.png" width="50" height="50" />
